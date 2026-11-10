@@ -4,7 +4,7 @@ flake8==6.1.0
 hashin==0.17.0
 pipenv@git+https://github.com/pypa/pipenv@main
 pipfile==0.0.2
-poetry==1.7.1
+poetry==2.5.1
 
 # Some dependencies will only install if Cython is present
 Cython==3.0.5
